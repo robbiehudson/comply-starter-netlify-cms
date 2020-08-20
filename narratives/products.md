@@ -1,6 +1,6 @@
 ---
 name: Products and Services Narrative
-acronym: PSN
+acronym: PS
 majorRevisions:
   - date: Jun 1 2018
     comment: Initial document
